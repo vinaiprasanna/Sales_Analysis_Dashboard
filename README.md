@@ -41,8 +41,15 @@ Users can filter data based on:
 - **OpenPyXL**
 
 ---
+## Installing requirement:
 
+  pip install -r requirements.txt
+## How to run
+  streamlit run app.py
+  
+After execution, the dashboard will open in your browser at:
 
+  http://localhost:8501
 ---
 
 ## 📋 Dataset Columns
