@@ -1,0 +1,51 @@
+Order ID,Date,Region,Category,Product,Salesperson,Customer Segment,Quantity,Sales,Profit
+1001,05-01-2025,North,Electronics,Laptop,John,Premium,2,120000,30000
+1002,08-01-2025,South,Furniture,Chair,Sarah,Regular,5,25000,5000
+1003,12-01-2025,East,Clothing,Shirt,Mike,New,10,15000,4000
+1004,15-01-2025,West,Electronics,Mobile,Emma,Premium,3,90000,22000
+1005,18-01-2025,North,Accessories,Headphones,David,Regular,8,24000,6000
+1006,03-02-2025,South,Electronics,Tablet,Sarah,Premium,4,80000,18000
+1007,10-02-2025,East,Furniture,Table,Mike,New,2,30000,7000
+1008,15-02-2025,West,Clothing,Jeans,Emma,Regular,12,24000,5000
+1009,20-02-2025,North,Electronics,Smart Watch,John,Premium,6,60000,15000
+1010,25-02-2025,South,Accessories,Keyboard,David,New,10,20000,4500
+1011,02-03-2025,East,Electronics,Laptop,Mike,Premium,1,60000,15000
+1012,07-03-2025,West,Furniture,Sofa,Emma,Regular,1,50000,12000
+1013,10-03-2025,North,Clothing,Jacket,John,Premium,7,35000,8000
+1014,15-03-2025,South,Electronics,Printer,Sarah,New,3,45000,10000
+1015,20-03-2025,East,Accessories,Mouse,David,Regular,15,15000,3500
+1016,04-04-2025,West,Electronics,Mobile,Emma,Premium,5,150000,40000
+1017,08-04-2025,North,Furniture,Bed,John,Regular,1,70000,18000
+1018,12-04-2025,South,Clothing,T-Shirt,Sarah,New,20,20000,4500
+1019,18-04-2025,East,Electronics,Tablet,Mike,Premium,4,80000,19000
+1020,22-04-2025,West,Accessories,Webcam,David,Regular,9,27000,6000
+1021,05-05-2025,North,Electronics,Laptop,John,Premium,2,120000,32000
+1022,09-05-2025,South,Furniture,Cupboard,Sarah,Regular,1,40000,10000
+1023,14-05-2025,East,Clothing,Shirt,Mike,New,15,22500,5000
+1024,19-05-2025,West,Electronics,Smart Watch,Emma,Premium,8,80000,18000
+1025,25-05-2025,North,Accessories,Speakers,David,Regular,5,25000,6000
+1026,02-06-2025,South,Electronics,Printer,Sarah,New,4,60000,14000
+1027,06-06-2025,East,Furniture,Chair,Mike,Regular,8,40000,9000
+1028,10-06-2025,West,Clothing,Jeans,Emma,Premium,10,30000,7000
+1029,15-06-2025,North,Electronics,Mobile,John,Premium,4,120000,30000
+1030,20-06-2025,South,Accessories,Keyboard,David,New,12,24000,5000
+1031,03-07-2025,East,Electronics,Laptop,Mike,Premium,2,120000,31000
+1032,08-07-2025,West,Furniture,Table,Emma,Regular,2,30000,7000
+1033,12-07-2025,North,Clothing,Jacket,John,Premium,6,30000,7500
+1034,18-07-2025,South,Electronics,Smart Watch,Sarah,New,5,50000,12000
+1035,22-07-2025,East,Accessories,Mouse,David,Regular,20,20000,4500
+1036,05-08-2025,West,Electronics,Tablet,Emma,Premium,3,60000,14000
+1037,09-08-2025,North,Furniture,Sofa,John,Regular,1,50000,12000
+1038,15-08-2025,South,Clothing,T-Shirt,Sarah,New,25,25000,5500
+1039,20-08-2025,East,Electronics,Mobile,Mike,Premium,4,120000,28000
+1040,25-08-2025,West,Accessories,Webcam,David,Regular,10,30000,7000
+1041,04-09-2025,North,Electronics,Printer,John,Premium,3,45000,11000
+1042,10-09-2025,South,Furniture,Bed,Sarah,Regular,1,70000,17000
+1043,14-09-2025,East,Clothing,Shirt,Mike,New,12,18000,4200
+1044,20-09-2025,West,Electronics,Laptop,Emma,Premium,2,120000,30000
+1045,25-09-2025,North,Accessories,Speakers,David,Regular,6,30000,7000
+1046,03-10-2025,South,Electronics,Mobile,Sarah,Premium,5,150000,35000
+1047,09-10-2025,East,Furniture,Cupboard,Mike,Regular,1,40000,9000
+1048,15-10-2025,West,Clothing,Jeans,Emma,New,10,30000,6500
+1049,20-10-2025,North,Electronics,Smart Watch,John,Premium,7,70000,16000
+1050,25-10-2025,South,Accessories,Headphones,David,Regular,8,24000,5500
